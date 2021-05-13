@@ -1,0 +1,29 @@
+#container
+{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.offer
+{	
+	padding: 30px;
+	min-height: 200px;
+	font-size: 22px;
+	background-color: #ffad33; 
+	border-bottom: 3px dotted #ffffff;
+}
+.offer-text
+{
+	float: left;
+	
+}
+.img{
+	float:right;
+	
+}
+a{
+text-decoration: none; 
+color: black;
+}

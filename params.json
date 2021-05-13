@@ -1,0 +1,10 @@
+[{"cat":"Monitory","minp":50,"maxp":400,"mshops":4,"mdiscount":40},
+{"cat":"Podzespoly_komputerowe","minp":40,"maxp":400,"mshops":4,"mdiscount":50},
+{"cat":"Akcesoria_komputerowe","minp":40,"maxp":200,"mshops":5,"mdiscount":50},
+{"cat":"Tablety_PC","minp":100,"maxp":400,"mshops":4,"mdiscount":40},
+{"cat":"Laptopy","minp":200,"maxp":800,"mshops":4,"mdiscount":35},
+{"cat":"Drukarki","minp":50,"maxp":300,"mshops":4,"mdiscount":40},
+{"cat":"Routery","minp":50,"maxp":200,"mshops":4,"mdiscount":50},
+{"cat":"Gaming","minp":50,"maxp":200,"mshops":4,"mdiscount":50},
+{"cat":"Przechowywanie_danych","minp":40,"maxp":150,"mshops":5,"mdiscount":50},
+{"cat":"Obudowa_i_zasilanie","minp":50,"maxp":200,"mshops":4,"mdiscount":50}]

@@ -1,0 +1,13 @@
+Monitory
+Telewizory
+Podzespoly_komputerowe
+Tablety_PC
+Laptopy
+Aparaty_fotograficzne
+Routery
+Drukarki_i_skanery
+Sluchawki_komputerowe
+{"cat":"Fotografia","minp":80,"maxp":200,"mshops":4,"mdiscount":50},zegarki
+0 opinii
+
+xcom ostatnie sztuki
