@@ -1,5 +1,5 @@
 # Ceneo Steals Finder
-A NodeJS web scraper which looks for deals on Ceneo and prepares website with them.
+A Node.js web scraper which looks for deals on Ceneo and prepares website with them.
 
 ## Table of contents
 * [General info](#general-info)
@@ -34,6 +34,7 @@ When everything is prepared, simply type `node main` in terminal. It will scrape
 
 ## Screenshots
 Simple website provided by program to make browsing deals easy:
+
 ![website](Screenshots/ss1.png)
 
 ## Status
